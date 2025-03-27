@@ -37,10 +37,5 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: peaceiris/actions-gh-pages@v4
-        with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_dir: ./public
-          external_repository: xgDebug/xgdebug.github.io
-          publish_branch: gh-pages
-          force_orphan: false
