@@ -60,8 +60,8 @@ tocopen = true
 social = true
 
 [params.homeInfoParams]
-Content = ""
-Title = "### Everything you want is on the other side of fear."
+Content = "Take full control of your Hugo static site with HugoNest, the mobile app designed specifically for Hugo. Write, edit, preview, and deploy content seamlessly from anywhere, complete with Git sync and AI-powered writing assistance—all on your phone."
+Title = "Manage Your Blog Anywhere, Anytime."
 
 [[params.socialIcons]]
 name = "email"
@@ -70,6 +70,11 @@ url = "mailto:HugoNest@xgdebug.com"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/HugoNest"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/hugonestapp"
+
 
 [[params.socialIcons]]
 name = "rss"
@@ -111,12 +116,12 @@ iconHeight = 35
 text = ""
 
 [params.profileMode]
-enabled = true
+enabled = false
 imageHeight = 120
 imageWidth = 120
 imageUrl = "/images/avatar.png"
 imageTitle = "HugoNest"
-title = """#### HugoNest: Manage Your Blog Anywhere, Anytime. """
+title = """#### Manage Your Blog Anywhere, Anytime. """
 subtitle = " Take full control of your Hugo static site with HugoNest, the mobile app designed specifically for Hugo. Write, edit, preview, and deploy content seamlessly from anywhere, complete with Git sync and AI-powered writing assistance—all on your phone.  "
 
 [params.analytics.bing]
