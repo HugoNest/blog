@@ -1,0 +1,41 @@
+
+[[params.profileMode.buttons]]
+name = "Archives"
+url = "/archives/"
+
+[[params.profileMode.buttons]]
+name = "Categories"
+url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "Recent"
+url = "/recent/"
+
+[[menu.main]]
+identifier = "posts"
+name = "Categories"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
+
+[[menu.main]]
+identifier = "series"
+name = "Series"
+url = "/series/"
+weight = 40
+
+[[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 50

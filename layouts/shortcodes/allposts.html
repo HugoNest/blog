@@ -1,0 +1,10 @@
+{{ $posts := where .Site.Pages "Type" "posts" }}
+<ul>
+    {{ range $posts }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "2006-01-02" }}
+    </li>
+    {{ else }}
+    <li>没有找到文章。</li>
+    {{ end }}
+</ul>

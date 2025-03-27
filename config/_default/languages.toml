@@ -1,0 +1,9 @@
+
+[en]
+contentDir = 'content/en'
+disabled = false
+languageCode = 'en-US'
+languageDirection = 'ltr'
+LanguageName = 'English'
+title = "HugoNest"
+weight = 20
