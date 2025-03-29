@@ -13,7 +13,7 @@ keywords = ['HugoNest Project', 'Software Development Update', 'Personal Project
 
 ## HugoNest Project Update – March 27, 2025
 
-The HugoNest project continues to be developed as a personal side initiative. While progress is being made, it's important to note that development is ongoing at a steady pace, and significant breakthroughs aren’t anticipated.
+The [HugoNest](/posts/what-is-hugonest/) project continues to be developed as a personal side initiative. While progress is being made, it's important to note that development is ongoing at a steady pace, and significant breakthroughs aren’t anticipated.
 
 ### Today’s Activities
 
