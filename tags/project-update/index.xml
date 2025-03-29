@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project Update on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/project-update/</link>
+    <description>Recent content in Project Update on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2025 10:24:54 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/project-update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoNest Project Update – March 27, 2025</title>
+      <link>https://hugonest.pages.dev/posts/building-website/</link>
+      <pubDate>Thu, 27 Mar 2025 10:24:54 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/building-website/</guid>
+      <description>A personal side project update detailing ongoing development progress, challenges, and future plans for the HugoNest project.</description>
+      <content:encoded><![CDATA[<h2 id="hugonest-project-update--march-27-2025">HugoNest Project Update – March 27, 2025</h2>
+<p>The <a href="/posts/what-is-hugonest/">HugoNest</a> project continues to be developed as a personal side initiative. While progress is being made, it&rsquo;s important to note that development is ongoing at a steady pace, and significant breakthroughs aren’t anticipated.</p>
+<h3 id="todays-activities">Today’s Activities</h3>
+<p>Today&rsquo;s focus was on building the website.  Although the task appears straightforward, the actual implementation presented numerous challenges – a testament to the complexity of the project.</p>
+<h3 id="ongoing-tasks">Ongoing Tasks</h3>
+<p>A substantial amount of work remains to be completed. Specifically, the documentation (referred to as &ldquo;the docs&rdquo;) has yet to be addressed.  Further development will concentrate on expanding the core functionality and refining the user experience.</p>
+<h3 id="supporting-images">Supporting Images</h3>
+<p><img alt="2025-03-27-154825_1597x1967_scrot.png" loading="lazy" src="/posts/building-website/2025-03-27-154825_1597x1967_scrot.png"></p>
+<p><img alt="2025-03-27-154854_1575x1961_scrot.png" loading="lazy" src="/posts/building-website/2025-03-27-154854_1575x1961_scrot.png"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

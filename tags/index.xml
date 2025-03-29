@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/</link>
+    <description>Recent content in Tags on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2025 10:24:54 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoNest</title>
+      <link>https://hugonest.pages.dev/tags/hugonest/</link>
+      <pubDate>Thu, 27 Mar 2025 10:24:54 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/tags/hugonest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project Update</title>
+      <link>https://hugonest.pages.dev/tags/project-update/</link>
+      <pubDate>Thu, 27 Mar 2025 10:24:54 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/tags/project-update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>https://hugonest.pages.dev/tags/software-development/</link>
+      <pubDate>Thu, 27 Mar 2025 10:24:54 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/tags/software-development/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

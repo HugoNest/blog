@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on HugoNest</title>
+    <link>https://hugonest.pages.dev/series/</link>
+    <description>Recent content in Series on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Mar 2025 10:24:54 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoNest Project</title>
+      <link>https://hugonest.pages.dev/series/hugonest-project/</link>
+      <pubDate>Thu, 27 Mar 2025 10:24:54 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugonest-project/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
