@@ -1,6 +1,6 @@
 +++
-title = 'How to Update a Hugo Blog on an  Phone'
-description = 'Explore different methods for updating your Hugo blog on Android, from dedicated apps like HugoNest to using tools like Weblog and Mgit.  Discover the pros and cons of each approach.'
+title = 'How to Update a Hugo Blog on a  Phone'
+description = 'Explore different methods for updating your Hugo blog on Android or iOS,  from dedicated apps like HugoNest to using tools like Weblog and Mgit.  Discover the pros and cons of each approach.'
 tags = ['Hugo', 'Android', 'Blog Development', 'Static Site Generators', 'HugoNest']
 date = '2025-03-31T00:18:42.820927'
 draft = false
