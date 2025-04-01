@@ -1,5 +1,5 @@
 +++
-title = 'Subject: Yo, HugoNest Dev Log Drop - We Stay Cookin 🔥'
+title = 'HugoNest Dev Log Drop - We Stay Cookin 🔥'
 description = "Catch up on the latest updates for HugoNest, including a new onboarding guide, enhanced AI formatting, and improved backend security. Your boy's been grindin'!"
 tags = ['HugoNest', 'Dev Log', 'AI', 'Community Updates']
 date = '2025-04-01T15:44:39.019314'
