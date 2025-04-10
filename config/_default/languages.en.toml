@@ -19,12 +19,6 @@ url = "https://hugonest.github.io/"
 weight = 1
 
 [[menu.main]]
-identifier = "posts"
-name = "Categories"
-url = "/posts/"
-weight = 10
-
-[[menu.main]]
 identifier = "archives"
 name = "Archives"
 url = "/archives/"
@@ -35,12 +29,6 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 30
-
-[[menu.main]]
-identifier = "series"
-name = "Series"
-url = "/series/"
-weight = 40
 
 [[menu.main]]
 name = "Search"
