@@ -75,10 +75,9 @@ url = "https://github.com/HugoNest"
 name = "twitter"
 url = "https://x.com/hugonestapp"
 
-
 [[params.socialIcons]]
-name = "rss"
-url = "/index.xml"
+name = "link"
+url = "https://hugonest.github.io/"
 
 [params.assets]
 apple_touch_icon = "/images/apple-touch-icon.png"

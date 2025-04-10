@@ -11,6 +11,13 @@ url = "/posts/"
 name = "Recent"
 url = "/recent/"
 
+
+[[menu.main]]
+identifier = "link"
+name = "Download"
+url = "https://hugonest.github.io/"
+weight = 1
+
 [[menu.main]]
 identifier = "posts"
 name = "Categories"
