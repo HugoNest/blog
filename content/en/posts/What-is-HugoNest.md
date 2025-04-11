@@ -1,17 +1,15 @@
 +++
+title = 'What Is HugoNest'
+description = 'HugoNest: A Mobile Hugo Editor I’m Building – Not Done Yet, But Want Your Thoughts!  '
+tags = ['HugoNest']
+date = '2025-03-11T00:00:00.000'
 draft = false
-title= "What Is HugoNest"
-description = "HugoNest: A Mobile Hugo Editor I’m Building – Not Done Yet, But Want Your Thoughts!  "
-summary = ""
-date = 2025-03-27T18:24:01+08:00
-author = "HugoNest"
-tags = ["HugoNest",]
-keywords = []
 categories = []
 series = []
-[cover]
-image = ""
-relative = true
+author = 'HugoNest'
+keywords = ['dd']
+lastmod = '2025-04-11T23:14:26.556495'
+
 +++
 
 
