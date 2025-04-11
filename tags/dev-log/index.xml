@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dev Log on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/dev-log/</link>
+    <description>Recent content in Dev Log on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2025 15:44:39 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/dev-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoNest Dev Log Drop - We Stay Cookin 🔥</title>
+      <link>https://hugonest.pages.dev/posts/hugonest_dev_log_drop_we_stay_cookin/</link>
+      <pubDate>Tue, 01 Apr 2025 15:44:39 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest_dev_log_drop_we_stay_cookin/</guid>
+      <description>Catch up on the latest updates for HugoNest, including a new onboarding guide, enhanced AI formatting, and improved backend security. Your boy&amp;#39;s been grindin&amp;#39;!</description>
+      <content:encoded><![CDATA[<p>Aight fam, quick update on what your boy been workin&rsquo; on for HugoNest the last couple days. Been grindin'.</p>
+<ol>
+<li>
+<p><strong>Newbie Guide is LIVE:</strong> First off, gotta look out for the new folks, right? Dropped a new onboarding guide in the app. Should make jumpin&rsquo; in way smoother, show you the ropes so you ain&rsquo;t gotta guess. Gettin&rsquo; y&rsquo;all set up proper. ✨</p>
+</li>
+<li>
+<p><strong>AI Formatting Got That Glow Up:</strong> That AI helpin&rsquo; you format posts? Yeah, gave it a tune-up. It&rsquo;s way better now at makin&rsquo; your stuff look clean without you havin&rsquo; to sweat the small stuff. Should be smarter, less hassle. 💪</p>
+</li>
+<li>
+<p><strong>AI Backend Secured:</strong> Moved the AI brain over to Cloudflare, you know, for that speed and stability. BUT also locked it down with some verification. Can&rsquo;t have bots runnin&rsquo; wild and messin&rsquo; things up, feel me? Keepin&rsquo; the playground clean. 🔒</p>
+</li>
+<li>
+<p><strong>Recent Posts Make Sense Now:</strong> Real talk, that &lsquo;Recent Posts&rsquo; list was kinda buggin&rsquo;. Fixed it so now it sorts by the <em>last time you actually edited</em> somethin&rsquo;. Makes way more sense for findin&rsquo; that draft you were just workin&rsquo; on. Should be less diggin&rsquo;. 💯</p>
+</li>
+</ol>
+<p>That&rsquo;s the quick rundown. Puttin&rsquo; in work to make HugoNest solid for y&rsquo;all.</p>
+<p>Lemme know what you think. Back to the code cave. Peace! ✌️</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
