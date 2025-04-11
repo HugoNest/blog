@@ -8,14 +8,16 @@ categories = ['Technology', 'Productivity']
 series = ['Productivity']
 keywords = ['Hugo', 'Mobile Blogging', 'App', 'Markdown Editor', 'Content Creation']
 aliases = []
-lastmod = '2025-04-09T19:46:19.963827'
+lastmod = '2025-04-11T23:37:48.309397'
+rank = 10
 
 +++
+
 
 Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet **HugoNest**—the app that’s gon’ change how you manage your Hugo blog, no cap.  
 
 Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. **HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone**—no stress, no command line voodoo, just *tap, type, and post*.  
-2
+
 
 ### Why This Joint Slaps:  
 - **Git Magic on Mobile**: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.  
