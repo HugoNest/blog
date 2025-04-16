@@ -7,7 +7,7 @@ draft = false
 categories = ['Web Development', 'Mobile Development']
 series = ['HugoNest']
 keywords = ['Hugo', 'Mobile Blogging', 'Markdown Editor', 'Blog Management', 'Android']
-lastmod = '2025-04-16T10:24:10.437549'
+lastmod = '2025-04-16T10:29:13.175485'
 
 +++
 
@@ -37,10 +37,8 @@ As a thank you for helping me test, if you join our early testing group, you wil
 
 My email address is:  HugoNest@xgdebug.com
 
-Please also tell me what kind of phone you have (Android/iOS) and what you wish was easier to do with Hugo on your phone. I'll pick some testers and invite you to join.
-
+ 
 I'm really excited to see how we can make using Hugo even better together!
 
 Thanks a lot!
  
-![](https://hugonest.pages.dev/posts/hugonest_dark_mode__github_login_integration_now_available/dark1.png)
