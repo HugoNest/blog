@@ -7,7 +7,7 @@ draft = false
 categories = ['Web Development', 'Mobile Development']
 series = ['HugoNest']
 keywords = ['Hugo', 'Mobile Blogging', 'Markdown Editor', 'Blog Management', 'Android']
-lastmod = '2025-04-16T10:29:13.175485'
+lastmod = '2025-04-16T10:31:22.690046'
 
 +++
 
@@ -42,3 +42,4 @@ I'm really excited to see how we can make using Hugo even better together!
 
 Thanks a lot!
  
+![](https://hugonest.github.io/static/media/dashboard.png)
