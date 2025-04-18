@@ -7,15 +7,14 @@ draft = false
 categories = ['Web Development', 'Tools']
 series = ['HugoNest']
 keywords = ['Hugo', 'Mobile Website Management', 'HugoNest', 'Content Management', 'Blog']
-lastmod = '2025-04-18T00:26:51.183900'
+lastmod = '2025-04-18T19:46:53.573403'
 
 +++
 
 
 {{< youtube 7jo1B1gUsLU >}}
 
-
-Every Hugo website owner has likely experienced the charm of its efficiency and simplicity. However, when it comes to updating, modifying, or even managing website content in mobile scenarios, that convenience often takes a significant hit. As we discussed earlier, directly operating a Hugo website on a mobile phone faces numerous insurmountable obstacles:
+Every Hugo( or Jekyll) website owner has likely experienced the charm of its efficiency and simplicity. However, when it comes to updating, modifying, or even managing website content in mobile scenarios, that convenience often takes a significant hit. As we discussed earlier, directly operating a Hugo website on a mobile phone faces numerous insurmountable obstacles:
 
 * **Lack of a Proper Development Environment:** Mobile operating systems are not designed for software development, making it awkward to run a static site generator like Hugo that relies on command-line tools and specific environments.
 * **Limited Command-Line Access:** Even with the existence of some terminal emulators, their functionality is far inferior to desktop environments, making it incredibly difficult to execute Hugo's complex commands.
@@ -32,8 +31,6 @@ HugoNest was born to break free from the desktop constraints of Hugo website man
 **How Does HugoNest Solve Your Pain Points?**
  
 ![](https://hugonest.github.io/static/media/dashboard.png)
-
-
 
 * **Cross-Platform Support, Consistent Experience:** Whether you are using an Android phone, iPhone, or desktop computer, HugoNest will provide a consistent and smooth management experience. Say goodbye to the hassle of switching devices and take control of your website anytime, anywhere.
 * **Built-in Git Version Control:** We have integrated complete Git repository management functions into HugoNest, including cloning, fetching, pushing, and syncing. You can directly perform version control operations on your phone, easily track file changes, and ensure the security of your content, so you no longer have to worry about data loss due to misoperation.
