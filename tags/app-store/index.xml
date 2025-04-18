@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>App Store on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/app-store/</link>
+    <description>Recent content in App Store on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 04 Apr 2025 16:13:21 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Refactor and App Store Submission: A Developer&#39;s Journey</title>
+      <link>https://hugonest.pages.dev/posts/ai_refactor_and_app_store_submission_a_developer_s_journey/</link>
+      <pubDate>Fri, 04 Apr 2025 16:13:21 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/ai_refactor_and_app_store_submission_a_developer_s_journey/</guid>
+      <description>log detailing the refactoring of an AI unit, the ups and downs of app store submission, and the decision to streamline by removing subscription clutter. Follow the journey of building, breaking, fixing, and repeating.</description>
+      <content:encoded><![CDATA[<p>April 3rd – AI Got a Glow-Up
+Yo, so I straight-up refactored the whole AI unit today. Nah, not just tweakin’—full reconstruction! 🧠⚡ Had to make sure this thing run smoother than butter on a hot skillet.</p>
+<p>April 4th – App Store Rollercoaster 🎢
+Finally hit &ldquo;Submit&rdquo; for that market review… aaaand—
+BAM! Rejected. 💀
+&ldquo;Nah, fam, fix this first.&rdquo;
+Back to the lab, ya know? Gotta tweak, adjust, and resubmit. The grind don’t stop. 💪</p>
+<p>April 5th – Out With the Old
+Decided to scrap ALL subscription stuff—ain’t nobody got time for that clutter. 🗑️
+Also whipped up a fresh support page so y’all can hit me up proper. 📩</p>
+<p>Lesson?
+Coding life be like: Build. Break. Fix. Repeat. 🔄 But we stay winnin’. 🏆</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
