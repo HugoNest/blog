@@ -7,7 +7,7 @@ draft = false
 categories = ['technology', 'development-journey', 'open-source']
 series = ['Behind The Code']
 keywords = ['HugoNest', 'static site generator', 'developer journey']
-lastmod = '2025-04-24T19:56:41.382443'
+lastmod = '2025-04-24T20:03:09.626190'
 
 +++
 
@@ -66,5 +66,3 @@ All you need is your phone.
 [👉 Get it here](https://hugonest.github.io/)
 
 ---
-
-要不要我帮你做一个更适合发在 r/selfhosted 或 r/Entrepreneur 的轻吐槽版本，带点梗或表情包语气？或者你想转成更视觉化的推文风格，也可以继续演绎。
