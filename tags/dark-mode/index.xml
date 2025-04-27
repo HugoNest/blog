@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dark Mode on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/dark-mode/</link>
+    <description>Recent content in Dark Mode on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/dark-mode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGONEST: Dark Mode &amp; GitHub Login Integration Now Available!</title>
+      <link>https://hugonest.pages.dev/posts/hugonest_dark_mode__github_login_integration_now_available/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest_dark_mode__github_login_integration_now_available/</guid>
+      <description>Exciting updates to HUGO nest! We&amp;#39;ve just launched Dark Mode with system-wide syncing and integrated GitHub login for a smoother user experience. Learn more and share your feedback below!</description>
+      <content:encoded><![CDATA[<p>Hey everyone!</p>
+<p>Hope you&rsquo;re all doing great. Just wanted to share what I&rsquo;ve been hammering away at for HUGONEST over the past day or so. Been focused on a couple of features I know folks have been asking for (or will appreciate!).</p>
+<p>First up, HUGE news for all you night owls (and anyone who just digs a sleeker look): Dark Mode is officially in! 🌙 Spent a good chunk of time getting this dialed in. The best part? It&rsquo;s not just an on/off switch – I made sure it hooks into your system settings. So, if your OS flips to dark mode at sunset, HUGONEST will follow right along. Of course, you&rsquo;ll still have the option to manually set it if that&rsquo;s more your style. Pretty stoked about how this turned out visually.
+<img loading="lazy" src="/posts/hugonest_dark_mode__github_login_integration_now_available/dark1.png"></p>
+<p>Also managed to knock out GitHub login integration. 💪 Been wanting to add more convenient ways to get you guys logged in, and GitHub felt like a natural fit for a lot of potential users. Should make hopping into HUGONEST a bit smoother for those of you already living in the GitHub ecosystem.
+<img loading="lazy" src="/posts/hugonest_dark_mode__github_login_integration_now_available/dark2.png"></p>
+<p>Felt like a super productive session! Getting these foundational pieces and user comfort features in place feels really good.</p>
+<p>What do you guys think? Excited for Dark Mode? Any other login methods you&rsquo;re dying to see? Let me know below!
+<img loading="lazy" src="/posts/hugonest_dark_mode__github_login_integration_now_available/dark3.png"></p>
+<p>Catch ya later,</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

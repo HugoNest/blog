@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Effortless Blogging on HugoNest</title>
+    <link>https://hugonest.pages.dev/series/effortless-blogging/</link>
+    <description>Recent content in Effortless Blogging on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:09:48 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/series/effortless-blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Easiest Way to Get Your Own Hugo Blog Up and Running  </title>
+      <link>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</link>
+      <pubDate>Sun, 27 Apr 2025 20:09:11 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</guid>
+      <description>A step-by-step guide to creating a free blog using Hugo and GitHub. No tech skills required!</description>
+      <content:encoded><![CDATA[<p>Yo, what&rsquo;s good? Wanna start your own blog for free with Hugo? It’s super simple, and I’m gonna walk you through it step-by-step. This is perfect for anyone, no tech skills needed. Let’s do this! 🚀</p>
+<p>Step 1: Log Into GitHub
+Head over to <a href="https://github.com/">https://github.com/</a> and sign in to your account. Don’t have one? Sign up—it’s free and quick.</p>
+<p>Step 2: Find the Hugo Template
+Go to this GitHub repo: <a href="https://github.com/HugoNest/hugo-template">https://github.com/HugoNest/hugo-template</a>. This is the starting point for your blog.</p>
+<p>Step 3: Create Your Blog Repo
+On that repo page, hit the green “Use this template” button, then click “Create a new repository.”<br>
+In the Repository name box, type <code>yourusername.github.io</code> (replace <strong>yourusername</strong> with your actual GitHub username, like <code>hugonest.github.io</code>).<br>
+Click Create repository to lock it in.</p>
+<p>Step 4: Set Up Your Blog
+Go to your new repo’s settings. For example, if your repo is <code>hugonest.github.io</code>, go to:
+<code>https://github.com/HugoNest/hugonest.github.io/settings/pages</code>
+Under Branch, choose <code>gh-pages</code> from the dropdown and select <code>/(root)</code>.<br>
+Hit Save.</p>
+<p>Step 5: Check Out Your Blog
+Wait a couple of minutes (grab a snack or vibe to some music). Then, open your browser and go to <code>https://yourusername.github.io</code>  Boom—your blog is live! 🎉<br>
+Pro Tip: Wanna customize it? Check out the files in your repo to tweak the look or add posts. Hugo’s docs are dope for learning more.<br>
+Drop a comment if you run into issues or wanna share your new blog! Let’s get those vibes online!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

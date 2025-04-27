@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on HugoNest</title>
+    <link>https://hugonest.pages.dev/series/</link>
+    <description>Recent content in Series on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:09:48 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effortless Blogging</title>
+      <link>https://hugonest.pages.dev/series/effortless-blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/effortless-blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Writing</title>
+      <link>https://hugonest.pages.dev/series/mobile-writing/</link>
+      <pubDate>Sat, 26 Apr 2025 10:07:14 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/mobile-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Behind the Code</title>
+      <link>https://hugonest.pages.dev/series/behind-the-code/</link>
+      <pubDate>Thu, 24 Apr 2025 19:48:30 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/behind-the-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HugoNest</title>
+      <link>https://hugonest.pages.dev/series/hugonest/</link>
+      <pubDate>Thu, 17 Apr 2025 23:42:05 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugonest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HugoNest Updates</title>
+      <link>https://hugonest.pages.dev/series/hugonest-updates/</link>
+      <pubDate>Sun, 13 Apr 2025 18:40:52 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugonest-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://hugonest.pages.dev/series/productivity/</link>
+      <pubDate>Wed, 09 Apr 2025 19:46:19 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer Diary</title>
+      <link>https://hugonest.pages.dev/series/developer-diary/</link>
+      <pubDate>Fri, 04 Apr 2025 16:13:21 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/developer-diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Security</title>
+      <link>https://hugonest.pages.dev/series/github-security/</link>
+      <pubDate>Fri, 04 Apr 2025 09:07:29 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/github-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HugoNest Project</title>
+      <link>https://hugonest.pages.dev/series/hugonest-project/</link>
+      <pubDate>Fri, 04 Apr 2025 09:07:29 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugonest-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HUGONEST Development</title>
+      <link>https://hugonest.pages.dev/series/hugonest-development/</link>
+      <pubDate>Tue, 01 Apr 2025 15:44:39 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugonest-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Blog Optimization</title>
+      <link>https://hugonest.pages.dev/series/hugo-blog-optimization/</link>
+      <pubDate>Mon, 31 Mar 2025 00:18:42 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/series/hugo-blog-optimization/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

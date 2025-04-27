@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Static Site Generators on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/static-site-generators/</link>
+    <description>Recent content in Static Site Generators on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:18:42 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/static-site-generators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Update a Hugo Blog on a  Phone</title>
+      <link>https://hugonest.pages.dev/posts/how_to_update_a_hugo_blog_on_an_phone/</link>
+      <pubDate>Mon, 31 Mar 2025 00:18:42 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/how_to_update_a_hugo_blog_on_an_phone/</guid>
+      <description>Explore different methods for updating your Hugo blog on Android or iOS,  from dedicated apps like HugoNest to using tools like Weblog and Mgit.  Discover the pros and cons of each approach.</description>
+      <content:encoded><![CDATA[<p>It is well-known that the process of publishing a blog has always been cumbersome due to the absence of backend solutions in static blog programs like HUGO, HEXO, and Jekyll. Previously, I used various methods to update my blog, but all of them required a PC.</p>
+<h2 id="pc-method">PC Method</h2>
+<p>VSCODE+Github
+My initial approach was to edit in VSCODE, generate static files in the Public directory locally using the Hugo command, and then submit them to Github Pages for direct publication. Later, I found the Hugo generation process too cumbersome, so I switched to editing and directly submitting to Github, then using Github Actions to generate blog files and publish them to Github Pages.</p>
+<p>Since all images on this site are hosted on Github, and due to the well-known issues with the speed of accessing Github Pages, I eventually abandoned the Github Actions + Github Pages solution in favor of automatic deployment through Vercel or Cloudflare Pages.</p>
+<h2 id="obsidiangithub">Obsidian+Github</h2>
+<p>Obsidian is an excellent note-taking software with a very large plugin library. With Obsidian + quickadd plugin + Git plugin, it’s very convenient to directly submit blog posts to Github from Obsidian. However, the issue is that Obsidian can only publish article content and cannot modify other site settings. Managing the Posts directory of Hugo directly with Obsidian feels odd, and unless a dedicated blog repository is created, there’s a constant risk of confusing note content with blog content during the management process.</p>
+<h2 id="joplingithub">Joplin+Github</h2>
+<p>Joplin is also a very good open-source note-taking software. Although Joplin has fewer plugins, there is one that can directly publish to Github Pages, called Pages Publisher Pages Publisher. However, this plugin is used by fewer people and currently only offers a very basic blog theme.</p>
+<p>Nevertheless, all these methods inevitably require the use of a PC.</p>
+<h2 id="mobile-method">Mobile Method</h2>
+<p>Github Code
+Github repositories allow for direct creation and modification of files. However, the inconvenience with this method is that direct access to Github from within China is not always reliable. The worst scenario is editing halfway through, only to have the page reset due to network issues. Github Codespaces faces the same issue.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/a.png"></p>
+<h2 id="weblog-app">Weblog App</h2>
+<p>Weblog is an Android app that supports managing Hugo and HEXO blogs on mobile devices. It includes built-in Hugo and Hexo environments and Git, allowing for convenient blog setup, static file generation, and webpage previews on the phone. It can easily publish to Github via Git. However, due to Hexo’s lower efficiency, it is recommended to use it with Hugo. The main issue with this solution is that it only supports creating MD files and does not allow uploading photos within the app. To upload photos, one must use the Android’s native file manager or a third-party file management tool.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/b.jpg"></p>
+<h2 id="mgit-app">Mgit App</h2>
+<p>Mgit is an Android Git application that easily pulls Github repositories to the local device, allowing for blog writing with a third-party Markdown editor. Many people use Obsidian as their blog editor and sync between their phone and computer using Mgit. The downside is that Mgit seems to have not been updated for a long time, and I encountered an issue on my Vivo X100 phone where I couldn’t edit files directly within Mgit.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/c.jpg"></p>
+<h2 id="stackedit">StackEdit</h2>
+<p>Stackedit is an excellent online Markdown editor that can be privately deployed and linked to Github repositories, with information stored in browser Cookies. I’ve tried editing simple information on my phone through Stackedit and submitting updates to Github. The main drawback of this method is that it cannot submit images, making it suitable only for situations where no images are needed or when using a third-party image library.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/d.png">
+Having suffered significant setbacks with image libraries since 2008, and upon cleaning up my Wordpress blog in 2018, I found that nearly 500 out of 900 images on the site had been lost due to issues with external image libraries. Even self-built image libraries have left me lacking confidence. Managing them separately always feels prone to problems.</p>
+<h2 id="hugonest">HugoNest</h2>
+<p>Finally, the current best choice is HugoNest. It&rsquo;s a cross-platform app (Android, iOS, Linux, macOS, Windows) that lets you update your Hugo blog anytime, anywhere.
+<img loading="lazy" src="https://hugonest.github.io/static/media/dashboard.png"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
