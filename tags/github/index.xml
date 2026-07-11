@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/github/</link>
+    <description>Recent content in GitHub on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:09:48 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Easiest Way to Get Your Own Hugo Blog Up and Running  </title>
+      <link>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</link>
+      <pubDate>Sun, 27 Apr 2025 20:09:11 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</guid>
+      <description>A step-by-step guide to creating a free blog using Hugo and GitHub. No tech skills required!</description>
+      <content:encoded><![CDATA[<p>Yo, what&rsquo;s good? Wanna start your own blog for free with Hugo? It’s super simple, and I’m gonna walk you through it step-by-step. This is perfect for anyone, no tech skills needed. Let’s do this! 🚀</p>
+<p>Step 1: Log Into GitHub
+Head over to <a href="https://github.com/">https://github.com/</a> and sign in to your account. Don’t have one? Sign up—it’s free and quick.</p>
+<p>Step 2: Find the Hugo Template
+Go to this GitHub repo: <a href="https://github.com/HugoNest/hugo-template">https://github.com/HugoNest/hugo-template</a>. This is the starting point for your blog.</p>
+<p>Step 3: Create Your Blog Repo
+On that repo page, hit the green “Use this template” button, then click “Create a new repository.”<br>
+In the Repository name box, type <code>yourusername.github.io</code> (replace <strong>yourusername</strong> with your actual GitHub username, like <code>hugonest.github.io</code>).<br>
+Click Create repository to lock it in.</p>
+<p>Step 4: Set Up Your Blog
+Go to your new repo’s settings. For example, if your repo is <code>hugonest.github.io</code>, go to:
+<code>https://github.com/HugoNest/hugonest.github.io/settings/pages</code>
+Under Branch, choose <code>gh-pages</code> from the dropdown and select <code>/(root)</code>.<br>
+Hit Save.</p>
+<p>Step 5: Check Out Your Blog
+Wait a couple of minutes (grab a snack or vibe to some music). Then, open your browser and go to <code>https://yourusername.github.io</code>  Boom—your blog is live! 🎉<br>
+Pro Tip: Wanna customize it? Check out the files in your repo to tweak the look or add posts. Hugo’s docs are dope for learning more.<br>
+Drop a comment if you run into issues or wanna share your new blog! Let’s get those vibes online!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to Set Up a Deploy Key for GitHub</title>
+      <link>https://hugonest.pages.dev/posts/how_to_set_up_a_deploy_key_for_github/</link>
+      <pubDate>Fri, 04 Apr 2025 09:07:29 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/how_to_set_up_a_deploy_key_for_github/</guid>
+      <description>A step-by-step guide on setting up a deploy key in GitHub to securely grant SSH access to a single repository without using personal account credentials.</description>
+      <content:encoded><![CDATA[<h1 id="how-to-set-up-a-deploy-key-for-github">How to Set Up a Deploy Key for GitHub</h1>
+<p>Deploy keys in GitHub provide a secure way to grant SSH access to a single repository without using personal account credentials. This guide will walk you through the simple process of setting up a deploy key.</p>
+<h2 id="step-by-step-instructions">Step-by-Step Instructions</h2>
+<h3 id="navigate-to-repository-settings">Navigate to Repository Settings</h3>
+<ol>
+<li>Go to your GitHub repository.</li>
+<li>Click on the &ldquo;Settings&rdquo; tab in the top navigation bar.
+<img loading="lazy" src="https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/1.png"></li>
+</ol>
+<h3 id="access-deploy-keys-section">Access Deploy Keys Section</h3>
+<ol>
+<li>In the left sidebar, find and click on &ldquo;Deploy Keys.&rdquo;
+<img loading="lazy" src="https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/2.png"></li>
+</ol>
+<h3 id="add-a-new-deploy-key">Add a New Deploy Key</h3>
+<ol>
+<li>Click the &ldquo;Add deploy key&rdquo; button (green button on the right side).
+<img loading="lazy" src="https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/3.png"></li>
+</ol>
+<h3 id="configure-your-key">Configure Your Key</h3>
+<ol>
+<li>In the &ldquo;Title&rdquo; field, enter a descriptive name for this key (e.g., &ldquo;Production Server&rdquo;).</li>
+<li>Check the &ldquo;Allow write access&rdquo; box if you need write permissions.</li>
+<li>For read-only access, leave this unchecked (recommended for most use cases).
+<img loading="lazy" src="https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/4.png"></li>
+</ol>
+<h3 id="save-the-key">Save the Key</h3>
+<ol>
+<li>Click &ldquo;Add key&rdquo; to complete the setup.</li>
+</ol>
+<h2 id="important-notes">Important Notes</h2>
+<ul>
+<li>Deploy keys are tied to a specific repository.</li>
+<li>You must have admin access to the repository to add deploy keys.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

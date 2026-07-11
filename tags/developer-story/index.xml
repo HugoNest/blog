@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Developer-Story on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/developer-story/</link>
+    <description>Recent content in Developer-Story on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 24 Apr 2025 20:03:09 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/developer-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quitting My Job to Build Something Meaningful—Was It Worth It?</title>
+      <link>https://hugonest.pages.dev/posts/202504/the_journey_of_hugonest_from_another_dev_s_passion_to_freedom_of_expression/</link>
+      <pubDate>Thu, 24 Apr 2025 19:48:30 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_journey_of_hugonest_from_another_dev_s_passion_to_freedom_of_expression/</guid>
+      <description>A developer&amp;#39;s journey from a stable but boring job to creating HugoNest, a mobile app for Hugo users, and the determination to keep it free.</description>
+      <content:encoded><![CDATA[<p>Five years ago, I was just another dev working a stable but boring job, building stuff I didn’t care about.</p>
+<p>One day, a friend messaged me:</p>
+<blockquote>
+<p>“Yo, you heard of Hugo? Static site generator. Fast as hell. Uses Markdown.”</p>
+</blockquote>
+<p>I checked it out.<br>
+And it hit me—this is what I <em>actually</em> wanna build for. Clean tools. No bloat. Full control.<br>
+So I quit my job to make something of my own.</p>
+<p>A few months later, I launched <strong>HugoNest</strong>—a mobile app for Hugo users.<br>
+You can write blogs on your phone, sync with Git, and even use AI to help you start your posts.<br>
+No laptop needed. No distractions. Just you and your ideas.</p>
+<p>But real talk?<br>
+It flopped.</p>
+<p>Barely any downloads. I couldn’t even pay my server bill.<br>
+People told me to quit. Get a real job. Do consulting.<br>
+I almost gave up.</p>
+<p>Then I saw this comment on GitHub from a dev in South Africa:</p>
+<blockquote>
+<p>“Wrote my travel blog on the bus using HugoNest. No laptop. Just my phone. Thank you.”</p>
+</blockquote>
+<p>That message? Man… it kept me going.</p>
+<p>I realized HugoNest isn&rsquo;t for the masses.<br>
+It’s for people like us—indie makers, devs, bloggers who wanna own their work, build without limits, and stay off the big platforms.</p>
+<p>So I made one final decision:</p>
+<p><strong>I made HugoNest 100% free.</strong></p>
+<p>Not because it’s worthless.<br>
+But because I believe in it.<br>
+And I believe someone out there still needs it.</p>
+<p>If you use Hugo, or you just wanna write your story your way—this is for you.</p>
+<p>I don’t know if this will save the app.<br>
+But I know this:</p>
+<p><strong>Before I walk away, I want to give it to the ones who truly get it.</strong></p>
+<hr>
+<p><strong>📱 HugoNest - now FREE</strong></p>
+<p>Write, edit, and publish your Hugo blog from anywhere.<br>
+All you need is your phone.</p>
+<p><a href="https://hugonest.github.io/">👉 Get it here</a></p>
+<hr>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

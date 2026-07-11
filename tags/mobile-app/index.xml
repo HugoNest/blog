@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mobile App on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/mobile-app/</link>
+    <description>Recent content in Mobile App on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Apr 2025 18:43:03 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugoNest: Fire Updates for Your Hugo Site</title>
+      <link>https://hugonest.pages.dev/posts/202504/hugonest_fire_updates_for_your_hugo_site/</link>
+      <pubDate>Sun, 13 Apr 2025 18:40:52 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/hugonest_fire_updates_for_your_hugo_site/</guid>
+      <description>Fresh updates to HugoNest, including GitHub login, speed improvements, editor enhancements, and Japanese language support!</description>
+      <content:encoded><![CDATA[<p>Ayo, what’s good Hugo gang! Man, I been tired after this weekend, fr—been locked in grindin’ on HugoNest (that’s my app, ya know, the one that lets you run ya whole Hugo site from ya phone, no cap). But yo, I got some fire updates I just dropped, so listen up!</p>
+<p>First off—GitHub login finally workin’ right! And it auto-sets up ya repo and everything! Bruh, this gonna save so many headaches, especially if you new to this Hugo stuff. Before, you had to do all this extra ish, now? One tap, boom, you in. No stress.</p>
+<p>Oh, and the app fast as hell now—like, no more laggin’ when you typin’ or tryna load stuff. Had to rewrite a whole chunk of the code to fix that mess, but it’s smooth like butter now, on God.</p>
+<p>Editor got upgrades too! That Front Matter thing? Yeah, it was lowkey confusing before, but now you can add ya own fields easy, plus there’s lil’ tips so you ain’t sittin’ there guessin’ what to do.</p>
+<p>UI lookin’ cleaner too—and yo, we got Japanese now! 日本語, ya feel me? For all my folks out in Tokyo or wherever.</p>
+<p><img loading="lazy" src="/posts/202504/hugonest_fire_updates_for_your_hugo_site/IMG_0315.png"></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HugoNest: The Mobile App That&#39;s Gonna Change Your Hugo Game</title>
+      <link>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</link>
+      <pubDate>Wed, 09 Apr 2025 19:46:19 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</guid>
+      <description>Manage your Hugo blog on the go with HugoNest—edit, push, and sync from your phone. Ditch the desk and create anytime, anywhere.</description>
+      <content:encoded><![CDATA[<p>Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet <strong>HugoNest</strong>—the app that’s gon’ change how you manage your Hugo blog, no cap.</p>
+<p>Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. <strong>HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone</strong>—no stress, no command line voodoo, just <em>tap, type, and post</em>.</p>
+<h3 id="why-this-joint-slaps">Why This Joint Slaps:</h3>
+<ul>
+<li><strong>Git Magic on Mobile</strong>: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.</li>
+<li><strong>AI That Actually Helps</strong>: Stuck on a title? AI gotchu. Typos? AI fixes ’em. Want a whole section rewritten? <em>You decide how much help you want</em>—just pick Basic, Standard, or Full mode.</li>
+<li><strong>Markdown Made Easy</strong>: Front Matter support, clean editing, all optimized for tiny screens (big fingers welcome).</li>
+<li><strong>Media on the Fly</strong>: Snap a pic, upload, bam—it’s in your post. No 10-step nonsense.</li>
+<li><strong>Real-Time Sync</strong>: Changes pop off instantly. No “did it save?” panic.</li>
+</ul>
+<p><strong>Why I’m Hyped</strong>: ‘Cause I’m tired of bein’ chained to a desk to blog. Now? Coffee shop, toilet break, chillin’ in the whip—<strong>wherever I get the vibe, I can create</strong>. And the best part? <strong>No tech degree required.</strong></p>
+<p>If you rock with Hugo (or wanna start), try it out and let me know what you think! <strong>Ain’t just an app—it’s freedom.</strong></p>
+<p>📲 <strong>Download here</strong>:  <a href="https://apps.apple.com/us/app/hugonest/id6744083788">https://apps.apple.com/us/app/hugonest/id6744083788</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

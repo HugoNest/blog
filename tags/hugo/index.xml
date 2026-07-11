@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/hugo/</link>
+    <description>Recent content in Hugo on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:09:48 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Easiest Way to Get Your Own Hugo Blog Up and Running  </title>
+      <link>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</link>
+      <pubDate>Sun, 27 Apr 2025 20:09:11 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</guid>
+      <description>A step-by-step guide to creating a free blog using Hugo and GitHub. No tech skills required!</description>
+      <content:encoded><![CDATA[<p>Yo, what&rsquo;s good? Wanna start your own blog for free with Hugo? It’s super simple, and I’m gonna walk you through it step-by-step. This is perfect for anyone, no tech skills needed. Let’s do this! 🚀</p>
+<p>Step 1: Log Into GitHub
+Head over to <a href="https://github.com/">https://github.com/</a> and sign in to your account. Don’t have one? Sign up—it’s free and quick.</p>
+<p>Step 2: Find the Hugo Template
+Go to this GitHub repo: <a href="https://github.com/HugoNest/hugo-template">https://github.com/HugoNest/hugo-template</a>. This is the starting point for your blog.</p>
+<p>Step 3: Create Your Blog Repo
+On that repo page, hit the green “Use this template” button, then click “Create a new repository.”<br>
+In the Repository name box, type <code>yourusername.github.io</code> (replace <strong>yourusername</strong> with your actual GitHub username, like <code>hugonest.github.io</code>).<br>
+Click Create repository to lock it in.</p>
+<p>Step 4: Set Up Your Blog
+Go to your new repo’s settings. For example, if your repo is <code>hugonest.github.io</code>, go to:
+<code>https://github.com/HugoNest/hugonest.github.io/settings/pages</code>
+Under Branch, choose <code>gh-pages</code> from the dropdown and select <code>/(root)</code>.<br>
+Hit Save.</p>
+<p>Step 5: Check Out Your Blog
+Wait a couple of minutes (grab a snack or vibe to some music). Then, open your browser and go to <code>https://yourusername.github.io</code>  Boom—your blog is live! 🎉<br>
+Pro Tip: Wanna customize it? Check out the files in your repo to tweak the look or add posts. Hugo’s docs are dope for learning more.<br>
+Drop a comment if you run into issues or wanna share your new blog! Let’s get those vibes online!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Quitting My Job to Build Something Meaningful—Was It Worth It?</title>
+      <link>https://hugonest.pages.dev/posts/202504/the_journey_of_hugonest_from_another_dev_s_passion_to_freedom_of_expression/</link>
+      <pubDate>Thu, 24 Apr 2025 19:48:30 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_journey_of_hugonest_from_another_dev_s_passion_to_freedom_of_expression/</guid>
+      <description>A developer&amp;#39;s journey from a stable but boring job to creating HugoNest, a mobile app for Hugo users, and the determination to keep it free.</description>
+      <content:encoded><![CDATA[<p>Five years ago, I was just another dev working a stable but boring job, building stuff I didn’t care about.</p>
+<p>One day, a friend messaged me:</p>
+<blockquote>
+<p>“Yo, you heard of Hugo? Static site generator. Fast as hell. Uses Markdown.”</p>
+</blockquote>
+<p>I checked it out.<br>
+And it hit me—this is what I <em>actually</em> wanna build for. Clean tools. No bloat. Full control.<br>
+So I quit my job to make something of my own.</p>
+<p>A few months later, I launched <strong>HugoNest</strong>—a mobile app for Hugo users.<br>
+You can write blogs on your phone, sync with Git, and even use AI to help you start your posts.<br>
+No laptop needed. No distractions. Just you and your ideas.</p>
+<p>But real talk?<br>
+It flopped.</p>
+<p>Barely any downloads. I couldn’t even pay my server bill.<br>
+People told me to quit. Get a real job. Do consulting.<br>
+I almost gave up.</p>
+<p>Then I saw this comment on GitHub from a dev in South Africa:</p>
+<blockquote>
+<p>“Wrote my travel blog on the bus using HugoNest. No laptop. Just my phone. Thank you.”</p>
+</blockquote>
+<p>That message? Man… it kept me going.</p>
+<p>I realized HugoNest isn&rsquo;t for the masses.<br>
+It’s for people like us—indie makers, devs, bloggers who wanna own their work, build without limits, and stay off the big platforms.</p>
+<p>So I made one final decision:</p>
+<p><strong>I made HugoNest 100% free.</strong></p>
+<p>Not because it’s worthless.<br>
+But because I believe in it.<br>
+And I believe someone out there still needs it.</p>
+<p>If you use Hugo, or you just wanna write your story your way—this is for you.</p>
+<p>I don’t know if this will save the app.<br>
+But I know this:</p>
+<p><strong>Before I walk away, I want to give it to the ones who truly get it.</strong></p>
+<hr>
+<p><strong>📱 HugoNest - now FREE</strong></p>
+<p>Write, edit, and publish your Hugo blog from anywhere.<br>
+All you need is your phone.</p>
+<p><a href="https://hugonest.github.io/">👉 Get it here</a></p>
+<hr>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unlock Mobile Management for Hugo with the Innovative HugoNest App (iOS Android)</title>
+      <link>https://hugonest.pages.dev/posts/202504/unlock_mobile_management_for_hugo_with_the_innovative_hugonest_app_ios_android/</link>
+      <pubDate>Thu, 17 Apr 2025 23:42:05 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/unlock_mobile_management_for_hugo_with_the_innovative_hugonest_app_ios_android/</guid>
+      <description>Tired of being tethered to your desktop? HugoNest lets you manage your Hugo website from your phone, anytime, anywhere. Write, edit, and deploy with ease!</description>
+      <content:encoded><![CDATA[
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/7jo1B1gUsLU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>Every Hugo( or Jekyll) website owner has likely experienced the charm of its efficiency and simplicity. However, when it comes to updating, modifying, or even managing website content in mobile scenarios, that convenience often takes a significant hit. As we discussed earlier, directly operating a Hugo website on a mobile phone faces numerous insurmountable obstacles:</p>
+<ul>
+<li><strong>Lack of a Proper Development Environment:</strong> Mobile operating systems are not designed for software development, making it awkward to run a static site generator like Hugo that relies on command-line tools and specific environments.</li>
+<li><strong>Limited Command-Line Access:</strong> Even with the existence of some terminal emulators, their functionality is far inferior to desktop environments, making it incredibly difficult to execute Hugo&rsquo;s complex commands.</li>
+<li><strong>Complex File System Management:</strong> Navigating and editing the directory structure, Markdown files, and configuration files of a Hugo website on a small phone screen is undoubtedly a nightmare.</li>
+<li><strong>Difficult-to-Manage Dependencies:</strong> Hugo may rely on Go language environments and other tools that are challenging to install and maintain on mobile devices.</li>
+<li><strong>Cumbersome Deployment Process:</strong> Website deployment typically involves Git version control and various command-line tools, making the efficiency and convenience of operating on a mobile device difficult to guarantee.</li>
+</ul>
+<p>These pain points force us to rely on desktop computers to complete Hugo website management tasks, which undoubtedly limits our freedom to update content anytime, anywhere. Whenever inspiration strikes, we want to quickly fix typos, or simply want to manage the website while traveling, we feel helpless.</p>
+<p><strong>Now, we are delighted to introduce HugoNest, a cross-platform Hugo website management tool specifically designed to solve these pain points!</strong></p>
+<p>HugoNest was born to break free from the desktop constraints of Hugo website management, allowing you to easily manage your Hugo blog from your phone, anytime, anywhere. We deeply understand the various difficulties of managing Hugo websites on mobile devices, so HugoNest has been deeply optimized for mobile scenarios from the very beginning.</p>
+<p><strong>How Does HugoNest Solve Your Pain Points?</strong></p>
+<p><img loading="lazy" src="https://hugonest.github.io/static/media/dashboard.png"></p>
+<ul>
+<li><strong>Cross-Platform Support, Consistent Experience:</strong> Whether you are using an Android phone, iPhone, or desktop computer, HugoNest will provide a consistent and smooth management experience. Say goodbye to the hassle of switching devices and take control of your website anytime, anywhere.</li>
+<li><strong>Built-in Git Version Control:</strong> We have integrated complete Git repository management functions into HugoNest, including cloning, fetching, pushing, and syncing. You can directly perform version control operations on your phone, easily track file changes, and ensure the security of your content, so you no longer have to worry about data loss due to misoperation.</li>
+<li><strong>Mobile-Optimized Markdown Editor:</strong> HugoNest provides a powerful Markdown editor that perfectly supports Hugo&rsquo;s Front Matter + Markdown structure. The editor is meticulously designed for mobile operating habits, allowing you to efficiently write professional articles on your phone. The real-time preview function allows you to grasp the final presentation effect of your articles at any time.</li>
+<li><strong>AI-Powered Content Creation:</strong> We understand the difficulty of creation, so HugoNest integrates intelligent AI services that can help you automatically generate article titles, descriptions, tags, and categories for Front Matter, saving you valuable time. AI can also assist you in proofreading typos, optimizing layouts, and even providing inspiration when you encounter creative bottlenecks, making your creation more efficient.</li>
+<li><strong>Convenient Multimedia Management:</strong> Managing images on mobile devices has always been a headache. HugoNest has built-in image selection, preview, and processing functions. You can directly select images from your phone&rsquo;s album or use the camera to take new photos and easily add them to your blog posts.</li>
+<li><strong>Real-time Site Synchronization:</strong> HugoNest can automatically identify and synchronize your Hugo content changes. The modifications you make in the app will be immediately reflected in the app, ensuring that your website content is always up-to-date without manual synchronization.</li>
+<li><strong>Elegant and Modern Interface:</strong> We believe that efficient tools should also be aesthetically pleasing. HugoNest boasts a meticulously designed user interface and smooth animation effects, making your management process both professional and enjoyable.</li>
+<li><strong>Multi-Language Support:</strong> HugoNest supports multi-language functionality, allowing you to easily use the app in your familiar language, no matter where you are.</li>
+<li><strong>Solid Data Security:</strong> Your data security is our top priority. HugoNest stores your keys entirely locally, maximizing the protection of every article and edited content.</li>
+</ul>
+<p><strong>With HugoNest, You Can:</strong></p>
+<ul>
+<li>Write new blog posts during your commute.</li>
+<li>Quickly fix typos in articles at a coffee shop.</li>
+<li>Upload and manage your photos while traveling.</li>
+<li>View and synchronize your website content anytime, anywhere.</li>
+<li>Easily manage your Git repository and ensure content security.</li>
+</ul>
+<p><strong>Say goodbye to reliance on desktop computers and embrace the freedom of managing your Hugo website anytime, anywhere!</strong> HugoNest will redefine the way you manage your Hugo website, allowing you to truly achieve seamless content management. We believe that with HugoNest, your Hugo website management will become easier, more efficient, and more convenient.</p>
+<p>Experience <a href="https://hugonest.github.io/">HugoNest</a> now and start a new era of mobile Hugo website management!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hugo Mobile Management: Need Your Help Testing Our New Android App</title>
+      <link>https://hugonest.pages.dev/posts/202504/hugo_mobile_management_need_your_help_testing_our_new_android_app/</link>
+      <pubDate>Wed, 16 Apr 2025 10:12:19 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/hugo_mobile_management_need_your_help_testing_our_new_android_app/</guid>
+      <description>A tool in development to simplify Hugo blog management on mobile devices.</description>
+      <content:encoded><![CDATA[<p>Hi everyone!</p>
+<p>If you use Hugo for your blog, like me, and sometimes wish it was easier to do simple things on your phone, then maybe you&rsquo;ll find this interesting.</p>
+<p>I&rsquo;ve been working on a small tool that I hope will help Hugo users manage their blogs easier on their phones. Right now, it&rsquo;s in the very early testing stages, but I think some of you might like the idea.</p>
+<p>Basically, this tool (let&rsquo;s call it HugoNest for now) wants to make it simpler to manage your Hugo blog on your phone, so you don&rsquo;t always need a computer. It can do a few basic things like:</p>
+<ul>
+<li><strong>Work on different phones and computers.</strong></li>
+<li><strong>Help with simple Git stuff.</strong></li>
+<li><strong>Make it easier to write in Markdown on your phone.</strong></li>
+<li><strong>Have some new AI features to help you write.</strong></li>
+<li><strong>Make it easy to add pictures from your phone.</strong></li>
+<li><strong>Show changes in the app quickly.</strong></li>
+</ul>
+<p>I know that for a tool like Hugo, being stable and keeping your data safe is super important. That&rsquo;s why I&rsquo;ve thought about these things from the start (like keeping your keys safe on your phone).</p>
+<p>Right now, I&rsquo;m doing a small test with a few people. I&rsquo;d really like to get some real feedback to help make this tool better. If you also use Hugo and are willing to spend a little time trying out this early version and give me your thoughts, I would really appreciate it!</p>
+<p>As a thank you for helping me test, if you join our early testing group, you will <strong>get to use this app for free.</strong></p>
+<p><strong>If you&rsquo;re interested in joining the test, please send me an email or a message with your email address.</strong> I will use your email to add you to the list of testers on Google Play.</p>
+<p>My email address is:  <a href="mailto:HugoNest@xgdebug.com">HugoNest@xgdebug.com</a></p>
+<p>I&rsquo;m really excited to see how we can make using Hugo even better together!</p>
+<p>Thanks a lot!</p>
+<p><img loading="lazy" src="https://hugonest.github.io/static/media/dashboard.png"></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HugoNest: Fire Updates for Your Hugo Site</title>
+      <link>https://hugonest.pages.dev/posts/202504/hugonest_fire_updates_for_your_hugo_site/</link>
+      <pubDate>Sun, 13 Apr 2025 18:40:52 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/hugonest_fire_updates_for_your_hugo_site/</guid>
+      <description>Fresh updates to HugoNest, including GitHub login, speed improvements, editor enhancements, and Japanese language support!</description>
+      <content:encoded><![CDATA[<p>Ayo, what’s good Hugo gang! Man, I been tired after this weekend, fr—been locked in grindin’ on HugoNest (that’s my app, ya know, the one that lets you run ya whole Hugo site from ya phone, no cap). But yo, I got some fire updates I just dropped, so listen up!</p>
+<p>First off—GitHub login finally workin’ right! And it auto-sets up ya repo and everything! Bruh, this gonna save so many headaches, especially if you new to this Hugo stuff. Before, you had to do all this extra ish, now? One tap, boom, you in. No stress.</p>
+<p>Oh, and the app fast as hell now—like, no more laggin’ when you typin’ or tryna load stuff. Had to rewrite a whole chunk of the code to fix that mess, but it’s smooth like butter now, on God.</p>
+<p>Editor got upgrades too! That Front Matter thing? Yeah, it was lowkey confusing before, but now you can add ya own fields easy, plus there’s lil’ tips so you ain’t sittin’ there guessin’ what to do.</p>
+<p>UI lookin’ cleaner too—and yo, we got Japanese now! 日本語, ya feel me? For all my folks out in Tokyo or wherever.</p>
+<p><img loading="lazy" src="/posts/202504/hugonest_fire_updates_for_your_hugo_site/IMG_0315.png"></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HugoNest: The Mobile App That&#39;s Gonna Change Your Hugo Game</title>
+      <link>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</link>
+      <pubDate>Wed, 09 Apr 2025 19:46:19 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</guid>
+      <description>Manage your Hugo blog on the go with HugoNest—edit, push, and sync from your phone. Ditch the desk and create anytime, anywhere.</description>
+      <content:encoded><![CDATA[<p>Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet <strong>HugoNest</strong>—the app that’s gon’ change how you manage your Hugo blog, no cap.</p>
+<p>Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. <strong>HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone</strong>—no stress, no command line voodoo, just <em>tap, type, and post</em>.</p>
+<h3 id="why-this-joint-slaps">Why This Joint Slaps:</h3>
+<ul>
+<li><strong>Git Magic on Mobile</strong>: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.</li>
+<li><strong>AI That Actually Helps</strong>: Stuck on a title? AI gotchu. Typos? AI fixes ’em. Want a whole section rewritten? <em>You decide how much help you want</em>—just pick Basic, Standard, or Full mode.</li>
+<li><strong>Markdown Made Easy</strong>: Front Matter support, clean editing, all optimized for tiny screens (big fingers welcome).</li>
+<li><strong>Media on the Fly</strong>: Snap a pic, upload, bam—it’s in your post. No 10-step nonsense.</li>
+<li><strong>Real-Time Sync</strong>: Changes pop off instantly. No “did it save?” panic.</li>
+</ul>
+<p><strong>Why I’m Hyped</strong>: ‘Cause I’m tired of bein’ chained to a desk to blog. Now? Coffee shop, toilet break, chillin’ in the whip—<strong>wherever I get the vibe, I can create</strong>. And the best part? <strong>No tech degree required.</strong></p>
+<p>If you rock with Hugo (or wanna start), try it out and let me know what you think! <strong>Ain’t just an app—it’s freedom.</strong></p>
+<p>📲 <strong>Download here</strong>:  <a href="https://apps.apple.com/us/app/hugonest/id6744083788">https://apps.apple.com/us/app/hugonest/id6744083788</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to Update a Hugo Blog on a  Phone</title>
+      <link>https://hugonest.pages.dev/posts/how_to_update_a_hugo_blog_on_an_phone/</link>
+      <pubDate>Mon, 31 Mar 2025 00:18:42 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/how_to_update_a_hugo_blog_on_an_phone/</guid>
+      <description>Explore different methods for updating your Hugo blog on Android or iOS,  from dedicated apps like HugoNest to using tools like Weblog and Mgit.  Discover the pros and cons of each approach.</description>
+      <content:encoded><![CDATA[<p>It is well-known that the process of publishing a blog has always been cumbersome due to the absence of backend solutions in static blog programs like HUGO, HEXO, and Jekyll. Previously, I used various methods to update my blog, but all of them required a PC.</p>
+<h2 id="pc-method">PC Method</h2>
+<p>VSCODE+Github
+My initial approach was to edit in VSCODE, generate static files in the Public directory locally using the Hugo command, and then submit them to Github Pages for direct publication. Later, I found the Hugo generation process too cumbersome, so I switched to editing and directly submitting to Github, then using Github Actions to generate blog files and publish them to Github Pages.</p>
+<p>Since all images on this site are hosted on Github, and due to the well-known issues with the speed of accessing Github Pages, I eventually abandoned the Github Actions + Github Pages solution in favor of automatic deployment through Vercel or Cloudflare Pages.</p>
+<h2 id="obsidiangithub">Obsidian+Github</h2>
+<p>Obsidian is an excellent note-taking software with a very large plugin library. With Obsidian + quickadd plugin + Git plugin, it’s very convenient to directly submit blog posts to Github from Obsidian. However, the issue is that Obsidian can only publish article content and cannot modify other site settings. Managing the Posts directory of Hugo directly with Obsidian feels odd, and unless a dedicated blog repository is created, there’s a constant risk of confusing note content with blog content during the management process.</p>
+<h2 id="joplingithub">Joplin+Github</h2>
+<p>Joplin is also a very good open-source note-taking software. Although Joplin has fewer plugins, there is one that can directly publish to Github Pages, called Pages Publisher Pages Publisher. However, this plugin is used by fewer people and currently only offers a very basic blog theme.</p>
+<p>Nevertheless, all these methods inevitably require the use of a PC.</p>
+<h2 id="mobile-method">Mobile Method</h2>
+<p>Github Code
+Github repositories allow for direct creation and modification of files. However, the inconvenience with this method is that direct access to Github from within China is not always reliable. The worst scenario is editing halfway through, only to have the page reset due to network issues. Github Codespaces faces the same issue.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/a.png"></p>
+<h2 id="weblog-app">Weblog App</h2>
+<p>Weblog is an Android app that supports managing Hugo and HEXO blogs on mobile devices. It includes built-in Hugo and Hexo environments and Git, allowing for convenient blog setup, static file generation, and webpage previews on the phone. It can easily publish to Github via Git. However, due to Hexo’s lower efficiency, it is recommended to use it with Hugo. The main issue with this solution is that it only supports creating MD files and does not allow uploading photos within the app. To upload photos, one must use the Android’s native file manager or a third-party file management tool.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/b.jpg"></p>
+<h2 id="mgit-app">Mgit App</h2>
+<p>Mgit is an Android Git application that easily pulls Github repositories to the local device, allowing for blog writing with a third-party Markdown editor. Many people use Obsidian as their blog editor and sync between their phone and computer using Mgit. The downside is that Mgit seems to have not been updated for a long time, and I encountered an issue on my Vivo X100 phone where I couldn’t edit files directly within Mgit.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/c.jpg"></p>
+<h2 id="stackedit">StackEdit</h2>
+<p>Stackedit is an excellent online Markdown editor that can be privately deployed and linked to Github repositories, with information stored in browser Cookies. I’ve tried editing simple information on my phone through Stackedit and submitting updates to Github. The main drawback of this method is that it cannot submit images, making it suitable only for situations where no images are needed or when using a third-party image library.</p>
+<p><img loading="lazy" src="/posts/how_to_update_a_hugo_blog_on_an_phone/d.png">
+Having suffered significant setbacks with image libraries since 2008, and upon cleaning up my Wordpress blog in 2018, I found that nearly 500 out of 900 images on the site had been lost due to issues with external image libraries. Even self-built image libraries have left me lacking confidence. Managing them separately always feels prone to problems.</p>
+<h2 id="hugonest">HugoNest</h2>
+<p>Finally, the current best choice is HugoNest. It&rsquo;s a cross-platform app (Android, iOS, Linux, macOS, Windows) that lets you update your Hugo blog anytime, anywhere.
+<img loading="lazy" src="https://hugonest.github.io/static/media/dashboard.png"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

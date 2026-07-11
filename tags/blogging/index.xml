@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogging on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/blogging/</link>
+    <description>Recent content in Blogging on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:09:48 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Easiest Way to Get Your Own Hugo Blog Up and Running  </title>
+      <link>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</link>
+      <pubDate>Sun, 27 Apr 2025 20:09:11 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/202504/the_easiest_way_to_get_your_own_hugo_blog_up_and_running/</guid>
+      <description>A step-by-step guide to creating a free blog using Hugo and GitHub. No tech skills required!</description>
+      <content:encoded><![CDATA[<p>Yo, what&rsquo;s good? Wanna start your own blog for free with Hugo? It’s super simple, and I’m gonna walk you through it step-by-step. This is perfect for anyone, no tech skills needed. Let’s do this! 🚀</p>
+<p>Step 1: Log Into GitHub
+Head over to <a href="https://github.com/">https://github.com/</a> and sign in to your account. Don’t have one? Sign up—it’s free and quick.</p>
+<p>Step 2: Find the Hugo Template
+Go to this GitHub repo: <a href="https://github.com/HugoNest/hugo-template">https://github.com/HugoNest/hugo-template</a>. This is the starting point for your blog.</p>
+<p>Step 3: Create Your Blog Repo
+On that repo page, hit the green “Use this template” button, then click “Create a new repository.”<br>
+In the Repository name box, type <code>yourusername.github.io</code> (replace <strong>yourusername</strong> with your actual GitHub username, like <code>hugonest.github.io</code>).<br>
+Click Create repository to lock it in.</p>
+<p>Step 4: Set Up Your Blog
+Go to your new repo’s settings. For example, if your repo is <code>hugonest.github.io</code>, go to:
+<code>https://github.com/HugoNest/hugonest.github.io/settings/pages</code>
+Under Branch, choose <code>gh-pages</code> from the dropdown and select <code>/(root)</code>.<br>
+Hit Save.</p>
+<p>Step 5: Check Out Your Blog
+Wait a couple of minutes (grab a snack or vibe to some music). Then, open your browser and go to <code>https://yourusername.github.io</code>  Boom—your blog is live! 🎉<br>
+Pro Tip: Wanna customize it? Check out the files in your repo to tweak the look or add posts. Hugo’s docs are dope for learning more.<br>
+Drop a comment if you run into issues or wanna share your new blog! Let’s get those vibes online!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>HugoNest: The Mobile App That&#39;s Gonna Change Your Hugo Game</title>
+      <link>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</link>
+      <pubDate>Wed, 09 Apr 2025 19:46:19 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest-the-mobile-app-that-s-gonna-change-your-hugo-game/</guid>
+      <description>Manage your Hugo blog on the go with HugoNest—edit, push, and sync from your phone. Ditch the desk and create anytime, anywhere.</description>
+      <content:encoded><![CDATA[<p>Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet <strong>HugoNest</strong>—the app that’s gon’ change how you manage your Hugo blog, no cap.</p>
+<p>Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. <strong>HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone</strong>—no stress, no command line voodoo, just <em>tap, type, and post</em>.</p>
+<h3 id="why-this-joint-slaps">Why This Joint Slaps:</h3>
+<ul>
+<li><strong>Git Magic on Mobile</strong>: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.</li>
+<li><strong>AI That Actually Helps</strong>: Stuck on a title? AI gotchu. Typos? AI fixes ’em. Want a whole section rewritten? <em>You decide how much help you want</em>—just pick Basic, Standard, or Full mode.</li>
+<li><strong>Markdown Made Easy</strong>: Front Matter support, clean editing, all optimized for tiny screens (big fingers welcome).</li>
+<li><strong>Media on the Fly</strong>: Snap a pic, upload, bam—it’s in your post. No 10-step nonsense.</li>
+<li><strong>Real-Time Sync</strong>: Changes pop off instantly. No “did it save?” panic.</li>
+</ul>
+<p><strong>Why I’m Hyped</strong>: ‘Cause I’m tired of bein’ chained to a desk to blog. Now? Coffee shop, toilet break, chillin’ in the whip—<strong>wherever I get the vibe, I can create</strong>. And the best part? <strong>No tech degree required.</strong></p>
+<p>If you rock with Hugo (or wanna start), try it out and let me know what you think! <strong>Ain’t just an app—it’s freedom.</strong></p>
+<p>📲 <strong>Download here</strong>:  <a href="https://apps.apple.com/us/app/hugonest/id6744083788">https://apps.apple.com/us/app/hugonest/id6744083788</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

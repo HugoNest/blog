@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>File Management on HugoNest</title>
+    <link>https://hugonest.pages.dev/tags/file-management/</link>
+    <description>Recent content in File Management on HugoNest</description>
+    <image>
+      <title>HugoNest</title>
+      <url>https://hugonest.pages.dev/images/avatar.png</url>
+      <link>https://hugonest.pages.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Mar 2025 15:51:27 +0000</lastBuildDate>
+    <atom:link href="https://hugonest.pages.dev/tags/file-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGONEST Blog Enhancements: Navigation &amp; File Movement</title>
+      <link>https://hugonest.pages.dev/posts/hugonest_blog_enhancements_navigation__file_movement/</link>
+      <pubDate>Sun, 30 Mar 2025 15:51:27 +0000</pubDate>
+      <guid>https://hugonest.pages.dev/posts/hugonest_blog_enhancements_navigation__file_movement/</guid>
+      <description>Updates to the HUGONEST blog, including seamless post navigation and the long-awaited ability to move files within the platform. Let us know what you think!</description>
+      <content:encoded><![CDATA[<p>What&rsquo;s up, HUGONEST crew!</p>
+<p>Another day, another round of code wrangling. Kept the momentum going today, focusing on smoothing out some core experiences within the app.</p>
+<p>Today&rsquo;s big focus was on the blogging features. Specifically, I implemented navigation between blog posts. You know, the classic &ldquo;Next Post&rdquo; / &ldquo;Previous Post&rdquo; links you see everywhere? Yep, HUGONEST has that now! Should make browsing through content a whole lot easier and keep people engaged without having to jump back to an index page constantly. Small change, big usability win (I hope!).
+<img loading="lazy" src="/posts/hugonest_blog_enhancements_navigation__file_movement/cut.png"></p>
+<p>On top of that, I circled back to the file management side of things. Remember how you could upload and view files? Well, now you can actually MOVE them! 🎉 It sounds basic, but it&rsquo;s a crucial step for proper organization. No more clunky workarounds if you decide a file belongs in a different folder. Just drag it (or, well, use the &lsquo;move&rsquo; command) and boom, it&rsquo;s there. Still more to do on the file manager, but this felt like a necessary piece to get in place.
+<img loading="lazy" src="/posts/hugonest_blog_enhancements_navigation__file_movement/cut2.png"></p>
+<p>Making steady progress and ticking things off the list! Always feels good.</p>
+<p>As always, I&rsquo;m building this out in the open, so your feedback is gold. How&rsquo;s the blog experience shaping up for you? Any specific file management tools you&rsquo;re hoping for next? Hit me up in the comments!</p>
+<p>Cheers</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
